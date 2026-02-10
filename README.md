@@ -1,4 +1,4 @@
-# test Prompt Library
+# test Prompt Library2
 
 Welcome to the **test Prompt Library**! This repository is dedicated to curating a high-quality collection of prompts for test, an advanced AI model designed for Text-to-Image. Whether you're a beginner or an expert, you'll find inspiration and tools here to unlock the full potential of test.
 
